@@ -4,11 +4,11 @@ A simple and responsive Student Login Form developed using React.js. This projec
 
 ## 🌐 Live Demo
 
-**[View the Student Login Application](https://pavanimandati13-jpg.github.io/login-form/)**
+ https://pavanimandati13-jpg.github.io/login-form/
 
 ## 💻 GitHub Repository
 
-**[View Source Code on GitHub](https://github.com/pavanimandati13-jpg/login-form)**
+https://github.com/pavanimandati13-jpg/login-form/
 
 ---
 
